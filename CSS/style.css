@@ -21,7 +21,7 @@ body {
 
 /* INTRO IMAGE */
 .intro-image {
-  background-image: url("https://images.unsplash.com/photo-1509042239860-f550ce710b93");
+  background-image: url("../images/images1.0.jpg");
   background-size: cover;
   background-position: center;
   background-attachment: fixed;
@@ -68,7 +68,7 @@ body {
 
 /* QUALITY IMAGE */
 .quality-image {
-  background-image: url("https://images.unsplash.com/photo-1511920170033-f8396924c348");
+  background-image: url("../images/image2.0.jpg");
   background-size: cover;
   background-position: center;
   background-attachment: fixed;
@@ -89,7 +89,7 @@ body {
 
 /* AREA 1 */
 .origin-image {
-  background-image: url("https://images.unsplash.com/photo-1442512595331-e89e73853f31");
+  background-image: url("../images/images3.0.jpg");
   background-size: cover;
   background-position: center;
   background-attachment: fixed;
